@@ -27,5 +27,5 @@ class Dog
     @@all << self
     @save << self 
   end 
-  binding.pry 
+ 
 end
