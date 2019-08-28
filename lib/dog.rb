@@ -2,7 +2,7 @@ class Dog
   attr_reader :name, :save 
 
   @@all = []
-  @@save = [] 
+   
   
   def initialize(name)
     @name = name 
